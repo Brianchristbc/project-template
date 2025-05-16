@@ -43,3 +43,4 @@ If starting without this template
    download css handler: npm install --save-dev style-loader css-loader
    download environment variables: npm install --save-dev dotenv-webpack
    run npm install
+   download css minimizer: npm install css-minimizer-webpack-plugin --save-dev
