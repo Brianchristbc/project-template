@@ -44,3 +44,4 @@ If starting without this template
    download environment variables: npm install --save-dev dotenv-webpack
    run npm install
    download css minimizer: npm install css-minimizer-webpack-plugin --save-dev
+   download date-fns npm install date-fns --save-dev
